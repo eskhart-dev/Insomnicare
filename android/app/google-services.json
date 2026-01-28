@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514378343155",
+    "project_id": "insomnicare",
+    "storage_bucket": "insomnicare.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514378343155:android:3f0b42ddb1347bf5670d86",
+        "android_client_info": {
+          "package_name": "com.insomnicare.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWBxzXfnEPAkXi17MiW_-iWjzciiboHzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

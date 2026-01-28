@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter pub get:*)",
+      "Bash(flutter devices:*)",
+      "Bash(flutter run:*)",
+      "Bash(flutter create:*)",
+      "Bash(ls -la \"C:\\\\Users\\\\rizki\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-rizki-insomnia\\\\tasks\"\" 2>/dev/null && tail -50 \"C:UsersrizkiAppDataLocalTempclaudeC--Users-rizki-insomniatasksbbe83c4.output \")",
+      "Bash(pkill:*)",
+      "Bash(timeout 5 cat:*)",
+      "Bash(flutter clean:*)",
+      "Bash(dart run:*)",
+      "Bash(nc:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
